@@ -1,4 +1,3 @@
 // Just a test
-main() {
-	int a;
+int main() {
 }
